@@ -6,4 +6,5 @@ This line is made on laptop to see if it shows up on desktop
 
 This line is made on desktop to see if it shows up on laptop
 
-Made on desktop at the same time as laptop
+Made on desktop at the same time as laptop. Fixed conflicting error on desktop.
+
