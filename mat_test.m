@@ -1,3 +1,3 @@
 % testing matlab code for github
 
-desktop_again = 1:10
+laptop_again = 1:10
